@@ -1,0 +1,21 @@
+{
+  "name": "rubibot",
+  "version": "1.0.0",
+  "description": "rubika bot with js ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node check.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "rubika",
+    "bot"
+  ],
+  "author": "nightcode",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "crypto-js": "^4.1.1"
+  }
+}
